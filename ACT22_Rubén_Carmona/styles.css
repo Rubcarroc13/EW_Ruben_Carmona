@@ -1,0 +1,11 @@
+.contenedor{
+    display: flex;
+    width: 80vw;
+    height: 100vw;
+    justify-content: center;
+}
+.nombre{
+    background-color: magenta;
+    padding: 5px;
+    margin: 15px;
+}

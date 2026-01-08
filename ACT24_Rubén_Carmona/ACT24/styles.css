@@ -1,0 +1,62 @@
+* {
+  font-family: "Mountains of Christmas", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+.todo{
+    border-style: dashed;
+    border-color: red;
+}
+.titulo{
+    color: red;
+}
+.titulo:hover{
+    color: green;
+}
+.contenedor{
+    width: 400px;
+    height: 200px;
+    border-style: solid;
+    border-color: red;
+    margin: 10px;
+}
+.texto-final{
+    border-style: solid;
+    border-color: green;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.texto-final:hover{
+    background: linear-gradient(360deg, green,red );
+    color: white;
+}
+h2{
+    color: white;
+    margin-top: 70px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.c1{
+    background: linear-gradient(360deg, white, green, red);
+}
+.c2{
+    background: linear-gradient(45deg, white 0%,red 20% 80%,white 100%);
+}
+.c3{
+    background: linear-gradient(90deg, green, white);
+}
+.c4{
+    background: linear-gradient(180deg, green 15%, red 25%);
+}
+.c5{
+background: linear-gradient(45deg, green 45%, red 45% 75%, white 75%);
+}
+.c6{
+background: linear-gradient(90deg,green, white,red, green, white,red );
+}

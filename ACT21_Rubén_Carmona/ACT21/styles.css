@@ -1,0 +1,21 @@
+.gris{
+    background-color: gainsboro;
+    width: 80vw;
+    height: 70vh;
+    margin: 0 auto;
+}
+.magenta{
+    background-color: magenta;
+    width: 80vw;
+    height: 30vh;
+}
+.cuadro1{
+    width: 60vw;
+    height: 30vh;
+    background-color: greenyellow;
+}
+.cuadro2{
+    width:80vw;
+    height: 10vh;
+    background-color: red;
+}
